@@ -1,0 +1,27 @@
+# Node.js (caso use futuramente)
+node_modules/
+dist/
+build/
+
+# VS Code
+.vscode/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos temporários de sistema
+*.log
+*.tmp
+*.swp
+*.swo
+
+# SASS/SCSS cache
+.sass-cache/
+
+# Arquivos de deploy locais
+.env
+.env.*
+
+# Git ignore de pastas ocultas que não sejam git
+.*~
